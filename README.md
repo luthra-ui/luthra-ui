@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Joseph Baffour
-- 👀 I’m interested in ...Ethical Hacking
+- 👋 Hi, I’m Joseph Baffour Awuah
+- 👀 I’m interested in ...Ethical Hacking and Miscellaneous projects
 - 🌱 I’m currently learning ...Cryptography
 - 💞️ I’m looking to collaborate on ...Code bashes
 - 📫 How to reach me luthrashambatti@gmail.com
